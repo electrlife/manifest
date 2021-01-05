@@ -7,5 +7,6 @@
   <project path="externals/curl/source" name="curl/curl.git" revision="master"/>
   <project path="externals/poco/source" name="pocoproject/poco.git" revision="master"/>
   <project path="externals/cpr/source" name="whoshuu/cpr.git" revision="master"/>
+  <project path="externals/nlohmann-json/source" name="nlohmann/json.git" revision="master"/>
 </manifest>
 
