@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch='https://github.com'/>
+  <default revision="master" remote="origin" sync-j="4"/>
+
+  <project path="pack/plugins/start/riv" name="Rykka/riv.vim.git"/>
+  <project path="pack/plugins/start/open-browser" name="tyru/open-browser.vim.git"/>
+  <project path="pack/plugins/start/markdown" name="plasticboy/vim-markdown.git"/>
+  <project path="pack/plugins/start/searchme" name="voldikss/vim-searchme.git"/>
+  <project path="pack/plugins/start/a" name="vim-scripts/a.vim.git"/>
+  <project path="pack/plugins/start/surround" name="tpope/vim-surround.git"/>
+  <project path="pack/plugins/start/bufexplorer" name="jlanzarotta/bufexplorer.git"/>
+  <project path="pack/plugins/start/fugitive" name="tpope/vim-fugitive.git"/>
+  <project path="pack/plugins/start/preview" name="skywind3000/vim-preview.git"/>
+  <project path="pack/plugins/start/multiple-cursors" name="terryma/vim-multiple-cursors.git"/>
+  <project path="pack/plugins/start/tmux-navigator" name="christoomey/vim-tmux-navigator.git"/>
+  <project path="pack/plugins/start/asyncrun" name="skywind3000/asyncrun.vim.git"/>
+  <project path="pack/plugins/start/neomake" name="neomake/neomake.git"/>
+  <project path="pack/plugins/start/easymotion" name="easymotion/vim-easymotion.git"/>
+  <project path="pack/plugins/start/table-mode" name="dhruvasagar/vim-table-mode.git"/>
+  <project path="pack/plugins/start/nerdtree" name="scrooloose/nerdtree.git"/>
+  <project path="pack/plugins/start/agrep" name="ramele/agrep.git"/>
+  <project path="pack/plugins/start/tcomment" name="tomtom/tcomment_vim.git"/>
+  <project path="pack/plugins/start/gitgutter" name="airblade/vim-gitgutter.git"/>
+  <project path="pack/plugins/start/gutentags" name="ludovicchabant/vim-gutentags.git"/>
+  <project path="pack/plugins/start/LeaderF" name="Yggdroot/LeaderF.git"/>
+  <project path="pack/plugins/start/eunuch" name="tpope/vim-eunuch.git"/>
+  <project path="pack/plugins/start/clang-format" name="rhysd/vim-clang-format.git"/>
+  <project path="pack/plugins/start/easy-align" name="junegunn/vim-easy-align.git"/>
+  <project path="pack/plugins/start/repeat" name="tpope/vim-repeat.git"/>
+  <project path="pack/plugins/start/airline" name="vim-airline/vim-airline.git"/>
+  <project path="pack/plugins/start/incsearch" name="haya14busa/incsearch.vim.git"/>
+  <project path="pack/plugins/start/DoxygenToolkit" name="vim-scripts/DoxygenToolkit.vim.git"/>
+  <project path="pack/plugins/start/startify" name="mhinz/vim-startify.git"/>
+
+  <project path="pack/themes/opt/colors-codeschool" name="antlypls/vim-colors-codeschool.git"/>
+  <project path="pack/themes/opt/gruvbox" name="morhetz/gruvbox.git"/>
+  <project path="pack/themes/opt/onedark" name="joshdick/onedark.vim.git"/>
+  <project path="pack/themes/opt/vividchalk" name="tpope/vim-vividchalk.git"/>
+  <project path="pack/themes/opt/one" name="rakr/vim-one.git"/>
+  <project path="pack/themes/opt/darkness" name="Jorengarenar/vim-darkness.git"/>
+  <project path="pack/themes/opt/colors-solarized" name="altercation/vim-colors-solarized.git"/>
+  <project path="pack/themes/opt/solarized8" name="lifepillar/vim-solarized8.git"/>
+  <project path="pack/themes/opt/colors-bionik" name="datMaffin/vim-colors-bionik.git"/>
+  <project path="pack/themes/opt/molokai" name="tomasr/molokai.git"/>
+  <project path="pack/themes/opt/molokai" name="tomasr/molokai.git"/>
+  <project path="pack/themes/opt/monokai" name="sickill/vim-monokai.git"/>
+  <project path="pack/themes/opt/peaksea" name="vim-scripts/peaksea.git"/>
+  <project path="pack/themes/opt/palenight" name="drewtempelmeyer/palenight.vim.git"/>
+  <project path="pack/themes/opt/tender" name="jacoborus/tender.vim.git"/>
+  <project path="pack/themes/opt/mayanfog" name="arzg/vim-mayanfog.git"/>
+  <project path="pack/themes/opt/kolor" name="zeis/vim-kolor.git"/>
+  <project path="pack/themes/opt/jellybeans" name="nanotech/jellybeans.vim.git"/>
+  <project path="pack/themes/opt/Zenburn" name="jnurmine/Zenburn.git"/>
+  <project path="pack/themes/opt/code-dark" name="tomasiser/vim-code-dark.git"/>
+  <project path="pack/themes/opt/papercolor-theme" name="NLKNguyen/papercolor-theme.git"/>
+
+</manifest>
