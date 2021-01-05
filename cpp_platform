@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch='https://github.com'/>
+  <default revision="master" remote="origin" sync-j="4"/>
+  <project path="externals/jsoncpp/source" name="open-source-parsers/jsoncpp.git" revision="master"/>
+  <project path="externals/curlpp/source" name="jpbarrette/curlpp.git" revision="master"/>
+  <project path="externals/curl/source" name="curl/curl.git" revision="master"/>
+  <project path="externals/poco/source" name="pocoproject/poco.git" revision="master"/>
+  <project path="externals/cpr/source" name="whoshuu/cpr.git" revision="master"/>
+  
+  <!--
+  <project path="externals/nlohmann-json/source" name="nlohmann/json.git" revision="master"/>
+  -->
+  
+</manifest>
