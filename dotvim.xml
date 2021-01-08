@@ -54,5 +54,7 @@
   <project path="pack/themes/opt/Zenburn" name="jnurmine/Zenburn.git"/>
   <project path="pack/themes/opt/code-dark" name="tomasiser/vim-code-dark.git"/>
   <project path="pack/themes/opt/papercolor-theme" name="NLKNguyen/papercolor-theme.git"/>
-
+  
+  <project path="myconf/amix" name="amix/vimrc.git"/>
+  <project path="myconf/spf13" name="spf13/spf13-vim.git"/>
 </manifest>
