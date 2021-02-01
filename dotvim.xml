@@ -43,7 +43,6 @@
   <project path="pack/themes/opt/solarized8" name="lifepillar/vim-solarized8.git"/>
   <project path="pack/themes/opt/colors-bionik" name="datMaffin/vim-colors-bionik.git"/>
   <project path="pack/themes/opt/molokai" name="tomasr/molokai.git"/>
-  <project path="pack/themes/opt/molokai" name="tomasr/molokai.git"/>
   <project path="pack/themes/opt/monokai" name="sickill/vim-monokai.git"/>
   <project path="pack/themes/opt/peaksea" name="vim-scripts/peaksea.git"/>
   <project path="pack/themes/opt/palenight" name="drewtempelmeyer/palenight.vim.git"/>
