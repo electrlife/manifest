@@ -56,4 +56,6 @@
   
   <project path="myconf/amix" name="amix/vimrc.git"/>
   <project path="myconf/spf13" name="spf13/spf13-vim.git"/>
+  <project path="." name="electrlife/dotvim.git"/>
+  
 </manifest>
