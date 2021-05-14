@@ -33,7 +33,8 @@
   <project path="pack/plugins/start/DoxygenToolkit" name="vim-scripts/DoxygenToolkit.vim.git"/>
   <project path="pack/plugins/start/startify" name="mhinz/vim-startify.git"/>
   <project path="pack/plugins/start/tagbar" name="preservim/tagbar.git"/>
-
+  <project path="pack/plugins/start/lsc" name="natebosch/vim-lsc.git"/>
+  
   <project path="pack/themes/opt/colors-codeschool" name="antlypls/vim-colors-codeschool.git"/>
   <project path="pack/themes/opt/gruvbox" name="morhetz/gruvbox.git"/>
   <project path="pack/themes/opt/onedark" name="joshdick/onedark.vim.git"/>
